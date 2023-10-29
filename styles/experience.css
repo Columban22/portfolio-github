@@ -1,0 +1,23 @@
+.experience__section {
+	text-align: center;
+	margin-top: 30rem;
+}
+
+.experience__title {
+	margin-bottom: 20px;
+	margin-top: 100px;
+}
+
+.videos__and__pictures {
+	display: flex;
+	justify-content: center;
+}
+
+.portrait__videos {
+	margin-right: 20px; /* Add some spacing between videos */
+}
+
+.video {
+	width: 410px;
+	height: 600px;
+}
